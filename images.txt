@@ -1,8 +1,8 @@
 canal/canal-server:v1.1.6
 canal/canal-server:v1.1.7
-dyrnq/canal-adapter:v1.1.6
-dyrnq/canal-adapter:v1.1.7
-dyrnq/canal-adapter:v1.1.8
+dyrnq/canal-adapter:1.1.6
+dyrnq/canal-adapter:1.1.7
+dyrnq/canal-adapter:1.1.8
 dyrnq/canal-adapter:latest
 elasticsearch:7.17.28
 kibana:7.17.28
