@@ -3,7 +3,7 @@ mysql:8.4.4
 phpmyadmin:5.2.1
 redis:6.2
 redis:7.2
-redis-commander:latest
+rediscommander/redis-commander:latest
 rabbitmq:3.13.7
 rabbitmq:4.0.9
 rabbitmq:latest
