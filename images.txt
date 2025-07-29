@@ -1,5 +1,5 @@
 mysql:8.0.32
-mysql:8.4.4 -> docker pull registry.cn-hangzhou.aliyuncs.com/xfg-studio/mysql:8.4.4
+mysql:8.4.4 
 phpmyadmin:5.2.1
 redis:6.2
 redis:7.2
@@ -32,3 +32,5 @@ redis_exporter:v1.62.0
 node-exporter:v1.8.2
 alpine:3.20.1
 jenkins:2.439
+portainer:latest
+portainer-ce:2.32.0
