@@ -61,6 +61,7 @@ nacos/nacos-server:v2.4.3-slim
 nacos/nacos-server:v2.5.1-slim
 elasticsearch:7.17.28
 kibana:7.17.28
+zookeeper:3.4.13
 zookeeper:3.9.3
 logstash:7.14.2
 logstash:8.17.9
